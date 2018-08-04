@@ -1,6 +1,6 @@
 # global-issues
 
-# Front-end issues
+## Front-end issues
 ### IPFS node issue in browser
 - `Uncaught TypeError: Cannot read property 'generateKey' of undefined`
 - https://github.com/ipfs/js-ipfs/issues/963
